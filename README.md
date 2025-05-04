@@ -1,5 +1,5 @@
 This repo is meant for display purpose only 
-This repo records of all the projects that I have done
+This repo records all the projects that I have done
 We get access to different level of resources throughout life but based on what was available to me I think listed projects are good
 
 
